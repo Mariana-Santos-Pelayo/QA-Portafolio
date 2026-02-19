@@ -5,7 +5,7 @@ body {
   padding: 0 20px;
   background: url("tech-background.jpg") no-repeat center center fixed;
   background-size: cover;
-  color: #e5e7eb;
+  color: #1f2937;
 }
 
 h1 {
@@ -52,4 +52,12 @@ a:hover {
 
 hr {
   margin: 40px 0;
+}
+section {
+  background: rgba(255, 255, 255, 0.85);
+  border-radius: 15px;
+  padding: 2rem;
+  margin: 2rem auto;
+  max-width: 1000px;
+  box-shadow: 0 10px 30px rgba(0, 0, 0, 0.15);
 }
