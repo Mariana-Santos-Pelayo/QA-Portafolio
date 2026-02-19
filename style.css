@@ -3,11 +3,8 @@ body {
   line-height: 1.6;
   margin: 0;
   padding: 0 20px;
-  background: 
-    radial-gradient(circle at 20% 30%, rgba(255,255,255,0.15) 1px, transparent 1px),
-    radial-gradient(circle at 70% 60%, rgba(255,255,255,0.1) 1px, transparent 1px),
-    linear-gradient(135deg, #0f172a, #1e3a8a);
-  background-size: 200px 200px, 300px 300px, cover;
+  background: url("tech-background.jpg") no-repeat center center fixed;
+  background-size: cover;
   color: #e5e7eb;
 }
 
