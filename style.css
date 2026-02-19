@@ -3,8 +3,8 @@ body {
   line-height: 1.6;
   margin: 0;
   padding: 0 20px;
-  background: url("tech-background.jpg") no-repeat center center fixed;
-  background-size: cover;
+  background: url("tech-background.png") no-repeat center center fixed;
+background-size: cover;
   color: #1f2937;
 }
 
